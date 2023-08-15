@@ -19,7 +19,7 @@ public class Question11 {
 			double alan = pi * yarıcap * yarıcap;
 
 			System.out.println("Çevresi " + cevre);
-			System.out.println("Alanı " + alan);
+			System.out.println("Alanı " + alan); 
 
 		}
 
